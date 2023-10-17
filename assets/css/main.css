@@ -44,7 +44,7 @@
     letter-spacing: .01em;
   
   }
-
+  /* Navigation */
   .nav {
     height: 100px;
     width: 100%;
@@ -62,6 +62,7 @@
     border-radius: 100%;
     background-color: black;
   }
+  /* Discography */
   .album {
     display: flex;
     flex-direction: column;
@@ -81,6 +82,7 @@
     font-family: sans-serif;
     color: white;
   }
+  /* Teaching */
   .teaching {
     display: flex;
     flex-direction: column;
@@ -99,6 +101,7 @@
   .teaching p {
     padding: 10px 16px;
   }
+  /* Lounge Piano */
   .lounge-piano {
     height: 300px;
     width: 100%;
@@ -115,6 +118,13 @@
   .lounge-piano h2{
     font-family: sans-serif;
   }
+  /* Contact */
+input {
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+  /* Footer */
   footer {
     height:35px;
     background-color: black;
