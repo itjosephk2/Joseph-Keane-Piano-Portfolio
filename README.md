@@ -340,7 +340,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
         - Clicking on the homepage link will bring the customer back to the landing page.
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#pianist-portfolio)
 
 
 ## Finished Product
