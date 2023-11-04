@@ -127,7 +127,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
     - The footer includes links to social media, future albums on spotify, reccomended resources for learning classical piano improvisation and venues I have performed at. There is also a bottom bar with the repeat of the logo and a copyight text to help end the page.
 
 ### 404 Error Page
-![404 error page image](assets/readme-files/404-error-page.png)
+![404 error page image](assets/readme-files/404.png)
 
 *  This single page is being shown in case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
 
