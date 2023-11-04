@@ -2,11 +2,9 @@
 
 ![Pianist Portfolio mockup images](assets/readme-files/mockup-image.png)
 
-Pura Vida Spa is a fictional spa located in the heart of the Costa Rican rainforest. Pura Vida Spa offers a variety of beauty treatments and its location allows you to enjoy their services while surrounded by the beautiful Costa Rican nature.
+This is a portfolio website for my own piano career. It aims to display the my talents and reach out to potential clients either as students or for weddings, hotel lounge work and or business functions. I aslo display some clips of me playing in regards to albums I am currently working on and hope to record and release within the coming year. The aim is to advertise my skillsets and give the viewer a means to contact me if they like what they see and would require my services.
 
-The purpose of this website is to promote Pura Vida Spa and to provide information to the customers about the spa, its treatments and contact options. The website targets an audience of new customers looking for the treatments being offered as well as returning customers looking to schedule a new appointments or find out about their new offerings.
-
-Visit the deployed website [here](https://josswe26.github.io/pura-vida-spa/).
+Visit the deployed website [here](https://itjosephk2.github.io/project-1/).
 
 ## Table of Contents
 
