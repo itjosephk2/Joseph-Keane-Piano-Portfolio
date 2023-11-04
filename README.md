@@ -101,9 +101,9 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 ![Header image](assets/readme-files/header.png)
 
     - The hero sets the mood for the page and gives a the user an exact idea of what the portfolio is for.
-
+    
     - The logo acts as a link to the top of the page.
-
+    
     - The legacy navigation is fixed to the top of the page to enable easy scrolling on desktop. I opted for no navigation as its a scroll focused site. However there is a to the top arrow to get home when on mobile.
 
 
