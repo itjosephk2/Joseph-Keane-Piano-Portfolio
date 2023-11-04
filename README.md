@@ -148,15 +148,6 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 * [Font Awesome](https://fontawesome.com/)
      - Font Awesome was used throughout all pages to add icons in order to create a better visual experience for UX purposes.
 
-* [Gratisography]((https://gratisography.com/))
-    - Hero image was gotten from here.
-
-* [Canva](https://www.canva.com/)
-    - Canva was used to create the album images
- 
-* [Buttons](https://getcssscan.com/css-buttons-examples)
-    - The button no. 48 was utilised to help create the button effect for the form.
-
 * [GitHub](https://github.com/)
      - GitHub was used to store the project after pushing.
 
@@ -395,34 +386,31 @@ Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.p
 
 ### Media
 
-* [Pexels](https://www.pexels.com/)
+* [Gratisography]((https://gratisography.com/))
+    - Hero image was gotten from here.
 
-    - Main image: "Waterfalls in the Middle of Green Trees" by Austin Tsai.
-    - 404 Error Page image: Taken by Artem Beliaikin.
+* [Canva](https://www.canva.com/)
+    - Canva was used to create the album images.
+ 
+* [Buttons](https://getcssscan.com/css-buttons-examples)
+    - The button no. 48 was utilised to help create the button effect for the form.
 
-* [Unsplash](https://unsplash.com/)
-
-    - About Us image: "Pristine water lily" by Jay Castor.
-    - Massage image: "Beautiful Woman Getting Stones Massage in Spa Salon" by Engin Akyurt.
-    - Facial image: Taken by Raphael Lovaski.
-    - Pedicure image: "Warm bath before treatment" by Rune Enstad.
-    - Book Now image: Taken by Firos Nv.
 
 ### Code
 
-* [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
+* [Youtube](https://youtube.com/) and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#pianist-portfolio)
 
 
 ## Acknowledgements
 
-* My partner, for her unconditional love, help and support in all aspects of life to make possible for me to work on this project.
+* My mento, Marcel, for his genuine interest in my best end result and invaluable support and guidance. Truly would not have done it without him.
 
-* My family, for their valuable opinions and and critic during the design and development process.
+* My friend and piano tuner for his support and feedback throughout the project.
 
-* My tutor, Marcel, for his invaluable feedback and guidance.
+* My friends, for their valuable opinions and and critic during the design and development process.
 
 * Code Institute and its amazing Slack community for their support and providing me with the necessary knowledge to complete this project.
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#pianist-portfolio)
