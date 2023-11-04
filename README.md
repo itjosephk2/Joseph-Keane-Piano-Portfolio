@@ -168,7 +168,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 ## Testing
 
-### Testing User Stories
+### Testing User Requirements
 
 * As a customer, I want to be able to navigate the website intuitively and learn more about the services being offered.
   
