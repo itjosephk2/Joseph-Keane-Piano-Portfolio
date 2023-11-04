@@ -143,7 +143,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 ### Frameworks, Libraries and Programs Used
 
 * [Google Fonts](https://fonts.google.com/)
-    - Google Fonts was used to import the fonts Raleway, Cabin and Qahiri into the style.css file. These fonts were used throughout the site.
+    - Google Fonts was used to import the fonts Roboto into the style.css file.
 
 * [Font Awesome](https://fontawesome.com/)
      - Font Awesome was used throughout all pages to add icons in order to create a better visual experience for UX purposes.
@@ -151,22 +151,13 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 * [TinyPNG](https://tinypng.com/)
     - TinyPNG was used to reduce the file size of the images for the website.
 
-* [GitPod](https://gitpod.io/)
-     - GitPod was used for writing code, committing, and then pushing to GitHub.
-
 * [GitHub](https://github.com/)
      - GitHub was used to store the project after pushing.
 
-* [Balsamiq](https://balsamiq.com/)
-     - Balsamiq was used to create the wireframes during the design phase of the project.
-
 * [Am I Responsive?](http://ami.responsivedesign.is/#)
-    - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
+    - Am I Responsive was used in order to create the mockup image.
 
-* [Responsive Design Checker](https://www.responsivedesignchecker.com/)
-    - Responsive Design Checker was used in the testing process to check responsiveness on various devices.
-
-* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+* [Firefox Dev edition](https://www.mozilla.org/en-US/firefox/developer/)
     - Chrome DevTools was used during development process for code review and to test responsiveness.
 
 * [W3C Markup Validator](https://validator.w3.org/)
@@ -175,7 +166,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
     - W3C CSS Validator was used to validate the CSS code.
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#pianist-portfolio)
 
 
 ## Testing
