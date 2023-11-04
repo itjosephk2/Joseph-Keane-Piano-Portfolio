@@ -110,21 +110,22 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 ### Discography
 ![Discography Section Image](assets/readme-files/Discography.png)
 
-    - Conatins an image of future albums, list of pieces that will be in them and a sample of the music.
+- Conatins an image of future albums, list of pieces that will be in them and a sample of the music.
 
 ### Teaching
 ![Contact section image](assets/readme-files/contact.png)
 
-    - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
+- Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
+  
 ### Lounge Piano
 ![Contact section image](assets/readme-files/contact.png)
 
-    - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
+- Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
 
 ### Footer
 ![Footer image](assets/readme-files/footer.png)
 
-    - The footer includes links to social media, future albums on spotify, reccomended resources for learning classical piano improvisation and venues I have performed at. There is also a bottom bar with the repeat of the logo and a copyight text to help end the page.
+- The footer includes links to social media, future albums on spotify, reccomended resources for learning classical piano improvisation and venues I have performed at. There is also a bottom bar with the repeat of the logo and a copyight text to help end the page.
 
 ### 404 Error Page
 ![404 error page image](assets/readme-files/404.png)
