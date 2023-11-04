@@ -30,7 +30,7 @@ Visit the deployed website [here](https://itjosephk2.github.io/project-1/).
     2. [Code Validation](#code-validation)
     3. [Accessibility](#accessibility)
     4. [Tools Testing](#tools-testing)
-    5. [Manual Testing](#manual-testing)
+    5. [Browser compatibility](#browser-compatibility)
 5. [Finished Product](#finished-product)
 6. [Deployment](#deployment)
     1. [GitHub Pages](#github-pages)
@@ -294,7 +294,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 ### Manual Testing
 
-* Browser Compatibility
+### Browser Compatibility
 
 
     *Goolgle Chrome*
