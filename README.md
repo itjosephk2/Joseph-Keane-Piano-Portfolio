@@ -95,7 +95,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 ### Landing Page
 
-* **Hero**
+* **Header**
 ![Header image](assets/readme-files/header.png)
 
     - The hero sets the mood for the page and gives a the user an exact idea of what the portfolio is for.
