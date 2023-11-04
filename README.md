@@ -292,24 +292,23 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
     - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) was used to check responsivity throughout the project.
 
-### Manual Testing
 
-* Browser Compatibility
+### Browser Compatibility
 
 
-    *Goolgle Chrome*
-
-        - No appearance, responsiveness nor functionality issues.
-
-    *Safari*
+    *Goolgle Chrome
 
         - No appearance, responsiveness nor functionality issues.
 
-    *Mozilla Firefox*
+    *Safari
+
+        - No appearance, responsiveness nor functionality issues.
+
+    *Mozilla Firefox
 
         - No responsiveness nor functionality issues.
 
-    *Microsoft Edge*
+    *Microsoft Edge
 
         - No appearance, responsiveness nor functionality issues.
 
