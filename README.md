@@ -79,12 +79,6 @@ The main font used in the site is Roboto, with Arial then Sans Serif as the fall
 
 Wire frames were drawn by hand to form a rough structural shape of the site and then each section was designed with pen and paper and mocked up with htl and css befor implementation.
 
-Page | Desktop Version | Mobile Version
---- | --- | ---
-Index | ![Desktop index wireframe image](assets/wireframes/desktop-index.png) | ![Mobile index wireframe image](assets/wireframes/mobile-index.png)
-Treatments | ![Desktop treatments wireframe image](assets/wireframes/desktop-treatments.png) | ![Mobile treatments wireframe image](assets/wireframes/mobile-treatments.png)
-Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-now.png) | ![Mobile book now wireframe image](assets/wireframes/mobile-book-now.png)
-
 [Back to top ⇧](#pura-vida-spa)
 
 
