@@ -386,7 +386,7 @@ Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.p
 
 ### Media
 
-* [Gratisography]((https://gratisography.com/))
+* [Gratisography](https://gratisography.com/)
     - Hero image was gotten from here.
 
 * [Canva](https://www.canva.com/)
