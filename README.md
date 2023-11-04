@@ -262,25 +262,15 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 ### Accessibility
 
-* Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
-
 * Lighthouse reports
 
     **Landing Page**
     
         - ![Lighthouse report for landing page image](assets/readme-files/lighthouse-report-index.png)
     
-    **Treatments Page**
-    
-        - ![Lighthouse report for treatmenst page image](assets/readme-files/lighthouse-report-treatments.png)
-    
-    **Book Now Page**
-    
-        - ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-book-now.png)
-    
     **404 Error Page**
 
-        - ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-book-now.png)
+        - ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-404.png)
 
 ### Tools Testing
 
