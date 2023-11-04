@@ -184,11 +184,11 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 * As a customer, I want to learn more about their teaching style and credibility.
 
-      - 
+      - Talked about how they approach teaching and the end goal of what a student can gain from learning from them.
 
 * As a customer, I want to learn more bout their playing services that they provide.
 
-      -
+      - Gave examples of where they played and what services they can provide for example the types of venues and events they can play for.
 
 * As a customer, I want to easily find the contact information for them.
 
