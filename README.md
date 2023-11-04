@@ -184,29 +184,29 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 * As a customer, I want to learn more about their teaching style and credibility.
 
-      - Talked about how they approach teaching and the end goal of what a student can gain from learning from them.
+    - Talked about how they approach teaching and the end goal of what a student can gain from learning from them.
 
 * As a customer, I want to learn more bout their playing services that they provide.
 
-      - Gave examples of where they played and what services they can provide for example the types of venues and events they can play for.
+    - Gave examples of where they played and what services they can provide for example the types of venues and events they can play for.
 
 * As a customer, I want to easily find the contact information for them.
 
-      - There is a contact form at the bottom of the page.
- 
-      - There is links to social media plaforms for contacting in the footer.
+    - There is a contact form at the bottom of the page.
+    
+    - There is links to social media plaforms for contacting in the footer.
 
 * As a customer, I want to find social media links.
     
-      - There is social media links in the footer.
+    - There is social media links in the footer.
 
 * As a customer, I want to be able to contact them easily in order to inquire about their services.
 
-        - There is a contact form for ease of contact. 
+    - There is a contact form for ease of contact. 
 
 * As a customer, I want to be able to navigate the website intuitively and learn more about the services being offered.
 
-        -  There is a clear path through the website in which all serioces are displayed and explained.
+    -  There is a clear path through the website in which all serioces are displayed and explained.
 
 
 ### Code Validation
