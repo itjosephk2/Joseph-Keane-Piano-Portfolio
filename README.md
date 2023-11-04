@@ -21,7 +21,7 @@ Visit the deployed website [here](https://itjosephk2.github.io/project-1/).
     4. [Teaching](#teaching)
     5. [Lounge Piano](#lounge-piano)
     6. [Footer](#footer)
-    7. [404 Error Page](#404-error-page)
+    7. [Error Pages](#error-pages)
  3. [Technologies Used](#technologies-used)
     1. [Languages Used](#languages-used)
     2. [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
@@ -163,10 +163,14 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
  
     - It helps to end the page.
 
-### 404 Error Page
+### Error Pages
 ![404 error page image](assets/readme-files/404.png)
 
-*  This single page is being shown in case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
+*  404 Error Page
+
+    - This single page is being shown in case the customer enters an incorrect address into the address bar.
+ 
+    - It contains a link to the landing page.    
 
 [Back to top ⇧](#pianist-portfolio)
 
