@@ -82,7 +82,7 @@ The main font used in the site is Roboto, with Arial then Sans Serif as the fall
 
 Wire frames were drawn by hand to form a rough structural shape of the site and then each section was designed with pen and paper and mocked up with htl and css befor implementation.
 
-[Back to top ⇧](#Pianist-Portfolio)
+[Back to top ⇧](#pianist-portfolio)
 
 
 ## Features
