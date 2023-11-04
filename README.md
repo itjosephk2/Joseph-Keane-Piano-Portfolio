@@ -107,9 +107,9 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 
 * **Discography**
-![About us section image](assets/readme-files/about-us.png)
+![Discography Section Image](assets/readme-files/Discography.png)
 
-    - Contains a text with information about the business as well as an eye-catching image.
+    - Conatins an image of future albums, list of pieces that will be in them and a sample of the music.
 
 * **Teaching**
 ![Contact section image](assets/readme-files/contact.png)
