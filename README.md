@@ -44,13 +44,13 @@ Visit the deployed website [here](https://itjosephk2.github.io/project-1/).
 
 ### Project Goals
 
-* The website should have a calming and relaxing design, appealing to the customers.
+* The website should be straight forward and easy to navigate.
 
-* Present the treatments offered and information about them in order to attract more customers.
+* Showcase my talents and skillsets in my portfolio.
 
-* Provide the customer with useful information that can facilitate future interaction with the business.
+* Provide the customer with useful information that gives them a good idea of the services I provide.
 
-* Offer the customers the opportunity to book a treatment once they have decided to visit the business.
+* Provide customers with the ability tp get in touch with me.
 
 ### User Stories
 
