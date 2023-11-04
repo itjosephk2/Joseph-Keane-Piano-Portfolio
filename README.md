@@ -438,6 +438,9 @@ Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.p
  
 * [Buttons](https://getcssscan.com/css-buttons-examples)
     - The button no. 48 was utilised to help create the button effect for the form.
+ 
+* [Color Pallet ](https://coolors.co/)
+    - Utilised to generate the color pallet picture for this REAME file.
 
 
 ### Code
