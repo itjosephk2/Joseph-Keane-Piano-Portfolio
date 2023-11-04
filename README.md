@@ -357,7 +357,7 @@ Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.p
 
 ## Deployment
 
-* This website was developed using [GitPod](https://www.gitpod.io/), which was then committed and pushed to GitHub using the GitPod terminal.
+* This website was developed using atom and then used condeanywhere to push use the git commits in the terminal. had issues getting github linked to atom due to a token that wouldn't work. Hope to fix this for the future to keep development in the one IDE.  
 
 ### GitHub Pages
 
