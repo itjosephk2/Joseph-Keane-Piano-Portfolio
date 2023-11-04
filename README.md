@@ -116,7 +116,21 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 ### Discography
 ![Discography Section Image](assets/readme-files/Discography.png)
 
-- Conatins an image of future albums, list of pieces that will be in them and a sample of the music.
+* General
+
+  - Conatins an image of future albums, list of pieces that will be in them and a sample of the music.
+
+* Desktop
+
+  - The background is a gradient.
+
+  - There are three albums aligned horrizontaly on the page.         
+
+* Mobile
+  
+  - The background is a fixed color.
+ 
+  - The albums are vertically aligned and each one has its own container with a gradient background. 
 
 ### Teaching
 ![Contact section image](assets/readme-files/contact.png)
