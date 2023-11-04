@@ -148,8 +148,14 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 * [Font Awesome](https://fontawesome.com/)
      - Font Awesome was used throughout all pages to add icons in order to create a better visual experience for UX purposes.
 
-* [TinyPNG](https://tinypng.com/)
-    - TinyPNG was used to reduce the file size of the images for the website.
+* [Gratisography]((https://gratisography.com/))
+    - Hero image was gotten from here.
+
+* [Canva](https://www.canva.com/)
+    - Canva was used to create the album images
+ 
+* [Buttons](https://getcssscan.com/css-buttons-examples)
+    - The button no. 48 was utilised to help create the button effect for the form.
 
 * [GitHub](https://github.com/)
      - GitHub was used to store the project after pushing.
@@ -158,7 +164,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
     - Am I Responsive was used in order to create the mockup image.
 
 * [Firefox Dev edition](https://www.mozilla.org/en-US/firefox/developer/)
-    - Chrome DevTools was used during development process for code review and to test responsiveness.
+    - Firefox dev tools was used for everything. Checking the website as I developed it. Learning the exact implications of css properties and how it effected the layout and design of an element. Checking for responsivity throughout the design to ensure it worked on all sized devices.
 
 * [W3C Markup Validator](https://validator.w3.org/)
     - W3C Markup Validator was used to validate the HTML code.
