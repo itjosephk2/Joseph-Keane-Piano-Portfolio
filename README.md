@@ -91,21 +91,21 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 * Responsive design across all device sizes.
 
-* Similar color scheme and design throughout all pages to effectively structure, categorise and present the information to the customers.
+* Similar color scheme and design throughout the website to maintain consistency for the user, categorise and present the information to the customers whilst maintaing a flow of the site on both mobile and desktop.
 
-* **Header**
+* **Hero**
 ![Header image](assets/readme-files/header.png)
 
-    - The header contains the business logo and fully responsive navigation bar positioned across the top of the screen.
+    - The hero sets the mood for the page and gives a the user an exact idea of what the portfolio is for.
 
-    - The business logo functions as a link to the landing page.
+    - The logo acts as a link to the top of the page.
 
-    - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
+    - The legacy navigation is fixed to the top of the page to enable easy scrolling on desktop. I opted for no navigation as its a scroll focused site. However there is a to the top arrow to get home when on mobile.
 
 * **Footer**
 ![Footer image](assets/readme-files/footer.png)
 
-    - The footer includes a smaller version of the logo and link to the business' social media channels.
+    - The footer includes links to social media, future albums on spotify, reccomended resources for learning classical piano improvisation and venues I have performed at. There is also a bottom bar with the repeat of the logo and a copyight text to help end the page.
 
 ### Landing Page
 
