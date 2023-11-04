@@ -375,7 +375,7 @@ Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.p
 
     5. The page will refresh automatically and generate a link to your website.
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#pianist-portfolio)
 
 
 ## Credits
