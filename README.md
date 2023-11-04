@@ -77,7 +77,7 @@ The main font used in the site is Roboto, with Arial then Sans Serif as the fall
 
 ### Wireframes
 
-[Balsamiq](https://balsamiq.com/) has been used to showcase the appearance of the site and display the placement of the different elements whitin the pages.
+Wire frames were drawn by hand to form a rough structural shape of the site and then each section was designed with pen and paper and mocked up with htl and css befor implementation.
 
 Page | Desktop Version | Mobile Version
 --- | --- | ---
