@@ -10,7 +10,7 @@ Visit the deployed website [here](https://itjosephk2.github.io/project-1/).
 
 1. [User Experience (UX)](#user-experience-ux)
     1. [Project Goals](#project-goals)
-    2. [User Stories](#user-stories)
+    2. [User Requirements](#user-requirements)
     3. [Color Scheme](#color-scheme)
     4. [Typography](#typography)
     5. [Wireframes](#wireframes)
