@@ -145,7 +145,23 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 ### Footer
 ![Footer image](assets/readme-files/footer.png)
 
-- The footer includes links to social media, future albums on spotify, reccomended resources for learning classical piano improvisation and venues I have performed at. There is also a bottom bar with the repeat of the logo and a copyight text to help end the page.
+* Footer
+
+    - Broken into four sections. Aligned horizontaly on desktop and vertically on mobile.
+  
+    - Section 1 includes links to social media and small about me text.
+ 
+    - Section 2 include links to playlists of future unrecorded albums.
+ 
+    - Section 3 includes links to reccomended resources for learning improvisation in a classical style on the piano
+ 
+    - Section 4 includes links to venues I have and/or currently am playing at.
+
+* Bottom Bar
+  
+    - The bottom bar includes a repeat of the logo and a copyight text.
+ 
+    - It helps to end the page.
 
 ### 404 Error Page
 ![404 error page image](assets/readme-files/404.png)
