@@ -52,7 +52,7 @@ Visit the deployed website [here](https://itjosephk2.github.io/project-1/).
 
 * Provide customers with the ability tp get in touch with me.
 
-### User Stories
+### User Requirements
 
 * As a customer, I want to be able to navigate the website intuitively and learn more about the services being offered.
 
