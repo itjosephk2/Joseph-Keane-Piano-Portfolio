@@ -393,9 +393,12 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 Page | Desktop version | Mobile version
 --- | --- | ---
-Index | ![Desktop index page image](assets/readme-files/desktop-index.png) | ![Mobile index page image](assets/readme-files/mobile-index.png)
-Treatments | ![Desktop treatments page image](assets/readme-files/desktop-treatments.png) | ![Mobile treatments page image](assets/readme-files/mobile-treatments.png)
-Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.png) | ![Mobile book now page image](assets/readme-files/mobile-book-now.png)
+Header | ![Desktop index page image](assets/readme-files/desktop-header.png) | ![Mobile index page image](assets/readme-files/mobile-header.png)
+Discography | ![Desktop treatments page image](assets/readme-files/desktop-discographys.png) | ![Mobile treatments page image](assets/readme-files/mobile-discography.png)
+Teaching | ![Desktop book now page image](assets/readme-files/desktop-teaching.png) | ![Mobile book now page image](assets/readme-files/mobile-teaching.png)
+Lounge Piano | ![Desktop Contact Form](assets/readme-files/desktop-lounge-piano.png) | ![Mobile contact image](assets/readme-files/mobile-lounge-piano.png)
+Contact | ![Desktop Contact Form](assets/readme-files/desktop-contact.png) | ![Mobile contact image](assets/readme-files/mobile-contact.png)
+Footer | ![Desktop Contact Form](assets/readme-files/desktop-footer.png) | ![Mobile contact image](assets/readme-files/mobile-footer.png)
 404 Error | ![Desktop 404 error page image](assets/readme-files/desktop-404.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
 
 [Back to top ⇧](#pianist-portfolio)
