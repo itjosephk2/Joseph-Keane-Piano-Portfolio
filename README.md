@@ -296,21 +296,21 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 ### Browser Compatibility
 
 
-    * Goolgle Chrome
+* Goolgle Chrome
 
-        - No appearance, responsiveness nor functionality issues.
+    - No appearance, responsiveness nor functionality issues.
 
-    * Safari
+* Safari
 
-        - No appearance, responsiveness nor functionality issues.
+    - No appearance, responsiveness nor functionality issues.
 
-    * Mozilla Firefox
+* Mozilla Firefox
 
-        - No responsiveness nor functionality issues.
+    - No responsiveness nor functionality issues.
 
-    * Microsoft Edge
+* Microsoft Edge
 
-        - No appearance, responsiveness nor functionality issues.
+    - No appearance, responsiveness nor functionality issues.
 
 ### Device compatibility
 
