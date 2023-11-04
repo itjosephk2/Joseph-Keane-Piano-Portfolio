@@ -357,7 +357,7 @@ Treatments | ![Desktop treatments page image](assets/readme-files/desktop-treatm
 Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.png) | ![Mobile book now page image](assets/readme-files/mobile-book-now.png)
 404 Error | ![Desktop 404 error page image](assets/readme-files/desktop-404.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#pianist-portfolio)
 
 
 ## Deployment
