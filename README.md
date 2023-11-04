@@ -243,17 +243,13 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 ### Tools Testing
 
-* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+* [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 
-    - Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
+    - Firefox dev tools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
 
 * Responsiveness
 
-    - [Am I Responsive?](http://ami.responsivedesign.is/#) was used to check responsiveness of the site pages across different devices.
-
-    - [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to check responsiveness of the site pages on different screen sizes.
-
-    - Chrome DevTools was used to test responsiveness in different screen sizes during the development process.
+    - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) was used to check responsivity throughout the project.
 
 ### Manual Testing
 
