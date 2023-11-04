@@ -294,7 +294,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 ### Manual Testing
 
-### Browser Compatibility
+* Browser Compatibility
 
 
     *Goolgle Chrome*
