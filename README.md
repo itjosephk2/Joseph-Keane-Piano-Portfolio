@@ -75,7 +75,7 @@ The colours used in the site are Black, White primarily (#000 and #fff), Varying
 
 ### Typography
 
-The main font used in the site is Raleway, with Sans Serif as the fallback font in case Ralway is not being imported correctly. Cabin is used for the headings, as suggested by Google Fonts for appropriate pairings with Raleway, with Sans Serif as fallback. The Qahiri font has been chosen for the site logo with Sans Serif used again as fallback.
+The main font used in the site is Roboto, with Arial then Sans Serif as the fallback fonts in Roboto is not being imported correctly. 
 
 ### Wireframes
 
