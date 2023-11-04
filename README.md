@@ -376,7 +376,7 @@ Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.p
 
     4. Under Source, click the dropdown called None and select Master Branch.
 
-    5. The page will refresh automatically and generate a link to your website.
+    5. The page will refresh automatically and generate a link to your website. 
 
 [Back to top ⇧](#pianist-portfolio)
 
