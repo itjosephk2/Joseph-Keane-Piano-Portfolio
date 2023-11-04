@@ -171,22 +171,42 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 ### Testing User Stories
 
 * As a customer, I want to be able to navigate the website intuitively and learn more about the services being offered.
-    - The website offers a intuitive structure for the customers to navigate and find the information they are looking for.   
+  
+    - The website offers a intuitive structure for the customers to navigate and find the information they are looking for.
+  
     - The navigation bar is clearly presented in all pages for the customers to find with ease and it is easily navigable.
 
 * As a customer, I want to be able to hear examples of the persons playing.
 
+    - The website offers samples of playing from future albums
+ 
+    - It also offers links to social media sites that contain footage and audio of playing.
+
 * As a customer, I want to learn more about their teaching style and credibility.
+
+      - 
 
 * As a customer, I want to learn more bout their playing services that they provide.
 
+      -
+
 * As a customer, I want to easily find the contact information for them.
 
+      - There is a contact form at the bottom of the page.
+ 
+      - There is links to social media plaforms for contacting in the footer.
+
 * As a customer, I want to find social media links.
+    
+      - There is social media links in the footer.
 
 * As a customer, I want to be able to contact them easily in order to inquire about their services.
 
-* As a customer, I want to be able to navigate the website intuitively and learn more about the business and treatments being offered.
+        - There is a contact form for ease of contact. 
+
+* As a customer, I want to be able to navigate the website intuitively and learn more about the services being offered.
+
+        -  There is a clear path through the website in which all serioces are displayed and explained.
 
 
 ### Code Validation
