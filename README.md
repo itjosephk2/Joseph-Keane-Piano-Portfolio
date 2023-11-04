@@ -346,43 +346,54 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 * Common Elements Testing
 
-    - All Pages
+    Landing page
 
-        - **Header**
+        **Hero**
 
-            - Clicking on the main logo will bring the customer back to the landing page.
+            - Hero covers the size of the viewport.
 
-        - **Navigation Bar**
+            - Heading box always fits within page leaving a space between it and the border of the viewport.
 
-            - Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
+        **Navigation Bar**
 
-            - Clicking on the navigation bar's links will bring the customer to the specified page.
+            - Hovering on the different navigation bar's links will trigger hover effect, underlning the text.
+
+            - Clicking on the navigation bar's links will scrol to the correct section.
+
+            - Navigation disapears on mobile and a scroll to top arrow appears.
+  
+        **Discography**
+        
+            - Audio Elements work and play the correct music.
+
+            - Albums change from vertical to horizontal when on desktop
+
+            - Album gets larger on tablet horizontal
+
+
+        **Teaching**
+        
+            - Needs Attention.
+
+        - **Teaching**
+        
+            - Needs attention.
 
         - **Footer**
 
             - Clicking on the social media links will open the specific website on a new tab.
 
-    - Treatments Page
+            - Hover effect works on links and links bring you to a new tab.
 
-        - Hovering on the book button link on each treatment section will trigger hover effect, highlighting the button for the customer.
+            - Footer changes from vertical to horizontal at the appropriate viewport width.
+              
 
-        - Clicking on the book button link on each treatment section will bring the customer to the book now page.
-
-    - Book Now Page
-
-        - When filling out the book now form, the customer is required to complete all fields before submitting.
-
-        - Hovering over the book button will trigger hover effect, highlighting the button for the customer.
-
-        - Clicking and dragging on the map in the find us section will move the area shown on the map.
-
-        - Clicking the plus and minus buttons changes the zoom of the map.
 
     - 404 Error Page
 
         - Entering an incorrect address into the address bar will bring the customer back to the 404 error page.
 
-        - Hovering on the homepage link will trigger hover effect, increasing the font size of the link's text.
+        - Hovering on the homepage link will trigger hover effect, underlining the bring me home text.
 
         - Clicking on the homepage link will bring the customer back to the landing page.
 
