@@ -124,35 +124,12 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
     - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
 
-### Treatments Page
-
-* **Treatment Sections**
-![Treatment section image](assets/readme-files/treatment-section-example.png)
-
-    - The treatment section contains an image to illustrate the respective treatment and a short text with an explanation of the treatment.
-
-    - A link to the book now page has been added to each section for easy navigation.
-
-    - Each treatment section is fully responsive and easy to replicate in case more treatments need to be added by the business.
-
-### Book Now Page
-
-* **Book Now Form**
-![Book now form image](assets/readme-files/book-now-form.png)
-
-    - The form allows the customer to book the desired treatment on a specific date directly from the business' website.
-
-* **Find Us Section**
-![Find us section image](assets/readme-files/find-us.png)
-
-    - This section displays a Google map of the business' geographical location. This allows the customers to easily find the location from their devices.
-
 ### 404 Error Page
 ![404 error page image](assets/readme-files/404-error-page.png)
 
 *  This single page is being shown in case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#piano-portfolio)
 
 
 ## Technologies Used
