@@ -110,7 +110,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
     - The legacy navigation is fixed to the top of the page to enable easy scrolling on desktop.
       
-    - I opted for no navigation as its a scroll focused site. However there is a to the top arrow to get home when on mobile.
+    - On mobile I opted for no navigation as its a scroll focused site. However there is a to the top arrow to get home when on mobile.
 
 
 ### Discography
