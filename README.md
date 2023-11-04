@@ -170,34 +170,23 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 ### Testing User Stories
 
-* As a customer, I want to be able to navigate the website intuitively and learn more about the business and treatments being offered.
-
-     - The website offers a intuitive structure for the customers to navigate and find the information they are looking for.
-
+* As a customer, I want to be able to navigate the website intuitively and learn more about the services being offered.
+    - The website offers a intuitive structure for the customers to navigate and find the information they are looking for.   
     - The navigation bar is clearly presented in all pages for the customers to find with ease and it is easily navigable.
 
+* As a customer, I want to be able to hear examples of the persons playing.
 
-* As a customer, I want to be able to read more about the treatments available.
+* As a customer, I want to learn more about their teaching style and credibility.
 
-    - The treatments page presents all treatments available, each on their own section.
+* As a customer, I want to learn more bout their playing services that they provide.
 
-    - Each treatment section contains useful information about the respective treatment.
+* As a customer, I want to easily find the contact information for them.
 
-* As a customer, I want to easily find the contact information for the business.
+* As a customer, I want to find social media links.
 
-    - The landing page contains a clear contact section with all necessary business' contacts
+* As a customer, I want to be able to contact them easily in order to inquire about their services.
 
-* As a customer, I want to find social media links to the business.
-
-    - The footer provides link to the business' social media channels.
-
-* As a customer, I want to be able to book a treatment directly from the website.
-
-    - The book now page provides a book now form for the customer to book and schedule their next treatment.
-
-* As a customer, I want to easily find the business' location.
-
-    - The book now page contains a find us section with a Google map of the business' geographical location.
+* As a customer, I want to be able to navigate the website intuitively and learn more about the business and treatments being offered.
 
 
 ### Code Validation
