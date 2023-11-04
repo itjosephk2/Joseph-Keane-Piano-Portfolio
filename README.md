@@ -54,17 +54,20 @@ Visit the deployed website [here](https://itjosephk2.github.io/project-1/).
 
 ### User Stories
 
-* As a customer, I want to be able to navigate the website intuitively and learn more about the business and treatments being offered.
+* As a customer, I want to be able to navigate the website intuitively and learn more about the services being offered.
 
-* As a customer, I want to be able to read more about the treatments available.
+* As a customer, I want to be able to hear examples of the persons playing.
 
-* As a customer, I want to easily find the contact information for the business.
+* As a customer, I want to learn more about their teaching style and credibility.
 
-* As a customer, I want to find social media links to the business.
+* As a customer, I want to learn more bout their playing services that they provide.
 
-* As a customer, I want to be able to book a treatment directly from the website.
+* As a customer, I want to easily find the contact information for them.
 
-* As a customer, I want to easily find the business' location.
+* As a customer, I want to find social media links.
+
+* As a customer, I want to be able to contact them easily in order to inquire about their services.
+
 
 ### Color Scheme
 ![Color scheme image](assets/readme-files/color-scheme.png)
