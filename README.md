@@ -96,7 +96,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 ### Landing Page
 
-* **Header**
+### Header
 ![Header image](assets/readme-files/header.png)
 
     - The hero sets the mood for the page and gives a the user an exact idea of what the portfolio is for.
@@ -106,23 +106,21 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
     - The legacy navigation is fixed to the top of the page to enable easy scrolling on desktop. I opted for no navigation as its a scroll focused site. However there is a to the top arrow to get home when on mobile.
 
 
-
-* **Discography**
+### Discography
 ![Discography Section Image](assets/readme-files/Discography.png)
 
     - Conatins an image of future albums, list of pieces that will be in them and a sample of the music.
 
-* **Teaching**
+### Teaching
 ![Contact section image](assets/readme-files/contact.png)
 
     - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
- 
-* **Lounge Piano**
+### Lounge Piano
 ![Contact section image](assets/readme-files/contact.png)
 
     - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
 
-* **Footer**
+### Footer
 ![Footer image](assets/readme-files/footer.png)
 
     - The footer includes links to social media, future albums on spotify, reccomended resources for learning classical piano improvisation and venues I have performed at. There is also a bottom bar with the repeat of the logo and a copyight text to help end the page.
