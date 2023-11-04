@@ -213,9 +213,9 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 * The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
 
-    - W3C Markup Validator found an error concerning headings not being included on the main and book now images. The section tag was replaced for a div tag to correct this.
+    - W3C Markup Validator found an error concerning the misspelling of target for one of the attributes of a link in the footer.
 
-    - Another error found by W3C Markup Validator was concerning a percentage value used inside the iframe tag to declare the width property on the Book Now page. The width and height properties for the iframe were declared inside the CSS file instead.
+    - Another error found by W3
 
     -  W3C CSS Validator found no errors or warnings on my CSS.
 
