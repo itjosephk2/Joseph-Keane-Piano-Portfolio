@@ -308,8 +308,6 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
         - **Mozilla Firefox**
 
-        There was and issue with the appearance of the book buttons on the treatments page expanding all the width. This issue was corrected by changing the width property value from "fit-content" to "max-content".
-
         No responsiveness nor functionality issues.
 
         - **Microsoft Edge**
