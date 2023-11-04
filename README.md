@@ -93,6 +93,8 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 * Similar color scheme and design throughout the website to maintain consistency for the user, categorise and present the information to the customers whilst maintaing a flow of the site on both mobile and desktop.
 
+### Landing Page
+
 * **Hero**
 ![Header image](assets/readme-files/header.png)
 
@@ -102,34 +104,34 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
     - The legacy navigation is fixed to the top of the page to enable easy scrolling on desktop. I opted for no navigation as its a scroll focused site. However there is a to the top arrow to get home when on mobile.
 
-* **Footer**
-![Footer image](assets/readme-files/footer.png)
 
-    - The footer includes links to social media, future albums on spotify, reccomended resources for learning classical piano improvisation and venues I have performed at. There is also a bottom bar with the repeat of the logo and a copyight text to help end the page.
 
-### Landing Page
-
-* **Main Image**
-![Main image](assets/readme-files/main-image.png)
-
-    - The main image is designed to attract the customer's attention and represents the nature surrounding the business.
-
-* **About Us Section**
+* **Discography**
 ![About us section image](assets/readme-files/about-us.png)
 
     - Contains a text with information about the business as well as an eye-catching image.
 
-* **Contact Section**
+* **Teaching**
 ![Contact section image](assets/readme-files/contact.png)
 
     - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
+ 
+* **Lounge Piano**
+![Contact section image](assets/readme-files/contact.png)
+
+    - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
+
+* **Footer**
+![Footer image](assets/readme-files/footer.png)
+
+    - The footer includes links to social media, future albums on spotify, reccomended resources for learning classical piano improvisation and venues I have performed at. There is also a bottom bar with the repeat of the logo and a copyight text to help end the page.
 
 ### 404 Error Page
 ![404 error page image](assets/readme-files/404-error-page.png)
 
 *  This single page is being shown in case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
 
-[Back to top ⇧](#piano-portfolio)
+[Back to top ⇧](#pianist-portfolio)
 
 
 ## Technologies Used
