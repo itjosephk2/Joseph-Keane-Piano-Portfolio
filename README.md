@@ -323,13 +323,13 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 * Landing page
 
-    **Hero**
+    * Hero
 
         - Hero covers the size of the viewport.
 
         - Heading box always fits within page leaving a space between it and the border of the viewport.
 
-    **Navigation Bar**
+    * Navigation Bar
 
         - Hovering on the different navigation bar's links will trigger hover effect, underlning the text.
 
@@ -337,7 +337,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
         - Navigation disapears on mobile and a scroll to top arrow appears.
 
-    **Discography**
+    * Discography
     
         - Audio Elements work and play the correct music.
 
@@ -346,15 +346,15 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
         - Album gets larger on tablet horizontal
 
 
-    **Teaching**
+    * Teaching
     
         - Needs Attention.
 
-    **Teaching**
+    * Teaching
     
         - Needs attention.
 
-    **Footer**
+    * Footer
 
         - Clicking on the social media links will open the specific website on a new tab.
 
