@@ -197,6 +197,9 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 * [Firefox Dev edition](https://www.mozilla.org/en-US/firefox/developer/)
     - Firefox dev tools was used for everything. Checking the website as I developed it. Learning the exact implications of css properties and how it effected the layout and design of an element. Checking for responsivity throughout the design to ensure it worked on all sized devices.
+ 
+* [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
+    - Google Developer tools was used for generating the lighthouse report and further reccomended documentation was utilised to increase the score.
 
 * [W3C Markup Validator](https://validator.w3.org/)
     - W3C Markup Validator was used to validate the HTML code.
@@ -281,6 +284,9 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 * Responsiveness
 
     - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) was used to check responsivity throughout the project.
+ 
+* Accesibility
+    - [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) was used for generating the lighthouse report and further reccomended documentation was utilised to increase the score.
 
 
 ### Browser Compatibility
