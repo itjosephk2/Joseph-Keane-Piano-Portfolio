@@ -15,6 +15,7 @@
   text-align: center;
   font-size: 38px;
   padding: 40px;
+  padding-top: 70px;
   text-transform: uppercase;
 }
 /* Header styles */
@@ -304,10 +305,71 @@ header .to-top a {
 }
 /* Teaching Section */
 #teaching {
-  height : 100vh;
   background-image: linear-gradient(#000, #333);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#teaching .teaching-wrapper {
+  /* sizing, shaping and setting the background */
+  max-width: 300px;
+  padding: 25px;
+  background-image: linear-gradient(#333, #000);
+  /* border */
+  border-radius: 10px;
+  /* positioning */
+  margin: 25px 0;
+  /* positioning content within the section */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+#teaching .teaching-wrapper .circle {
+  border-radius: 100%;
+  height: 150px;
+  width: 150px;
+  background: #fff;
+  margin-bottom: 25px;
 }
 
+#teaching .teaching-wrapper p {
+  color: #fff;
+  width: 250px;
+  margin-bottom: 25px;
+}
+@media screen and (min-width: 768px) {
+  #teaching .teaching-wrapper {
+    padding-top: 70px;
+    max-width: 700px;
+    width: 600px;
+    height: 100%;
+  }
+  #teaching .teaching-wrapper .teaching-item {
+    width: 400px;
+  }
+  #teaching .teaching-wrapper .circle {
+    width: 150px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  #teaching {
+    background-image: linear-gradient(#333, #000);
+    height: 100vh;
+  }
+  #teaching .teaching-wrapper {
+    max-width: 100%;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+  }
+  #teaching .teaching-wrapper .teaching-item {
+    margin-left: 25px;
+  }
+}
 /* Lounge Piano Section */
 #lounge-piano {
   width: 100%;
@@ -408,7 +470,7 @@ header .to-top a {
   margin-top: 25px;
 }
 
-#lounge-piano .lounge-wrapper .lounge-item a::before {
+#lounge-piano .lounge-wrapper .lounge-item .lounge-link::before {
   /* makes it a thing */
   content: "";
   /* positioning */
@@ -425,7 +487,7 @@ header .to-top a {
 }
 
 
-#lounge-piano .lounge-wrapper .lounge-item a:hover::before {
+#lounge-piano .lounge-wrapper .lounge-item .lounge-link:hover::before {
   /* sizing */
   width: 100%;
 }
@@ -459,6 +521,7 @@ header .to-top a {
     margin-bottom: 150px;
     width: 430px;
     height: 300px;
+  }
 }
 
 @media screen and (min-width: 1200px) {
@@ -492,7 +555,8 @@ header .to-top a {
 
 #contact form {
   /* sizing, shaping and backfround of the form */
-  max-width: 325px;
+  max-width: 300px;
+  margin-bottom: 50px;
   width: 100%;
   padding: 25px;
   border-radius: 5px;
