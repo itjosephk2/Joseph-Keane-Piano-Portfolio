@@ -306,7 +306,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 * Microsoft Edge
 
-    - No appearance, responsiveness nor functionality issues.
+    - Footer titles were white on a white background and thus invisible.
 
 ### Device compatibility
 
