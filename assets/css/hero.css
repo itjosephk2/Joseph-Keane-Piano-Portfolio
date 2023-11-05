@@ -20,10 +20,10 @@
   font-family: arial, sans-serif;
   color: #fff;
   text-transform: uppercase;
-  letter-spacing: .05em;
+  letter-spacing: .07em;
   text-align: center;
 }
-#hero p {
+#hero .kicker {
   /* Positioning */
   margin-top: 10px;
   /* Font */
@@ -31,7 +31,8 @@
   font-size: 18px;
   color: #fff;
   text-transform: uppercase;
-  letter-spacing: .01em;
+  font-weight: 300;
+  letter-spacing: .05em;
 }
 
 /* Tablets */
