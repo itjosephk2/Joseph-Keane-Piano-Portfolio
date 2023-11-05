@@ -4,7 +4,7 @@
 
 This is a portfolio website for my own piano career. It aims to display the my talents and reach out to potential clients either as students or for weddings, hotel lounge work and or business functions. I aslo display some clips of me playing in regards to albums I am currently working on and hope to record and release within the coming year. The aim is to advertise my skillsets and give the viewer a means to contact me if they like what they see and would require my services.
 
-Visit the deployed website [here](https://itjosephk2.github.io/project-1/).
+Visit the deployed website [here](https://itjosephk2.github.io/Joseph-Keane-Piano-Portfolio/)
 
 ## Table of Contents
 
