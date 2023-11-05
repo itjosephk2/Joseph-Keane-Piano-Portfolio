@@ -71,6 +71,8 @@
   text-align: left;
   color: #CCC;
   font-weight: 300;
+  line-height: 1.5em;
+  letter-spacing: .07em;
   /* positioning */
   margin-bottom: 20px;
 }
