@@ -273,7 +273,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
     
     * 404 Error Page
 
-        - ![Lighthouse report for book now page image](assets/readme-files/lighthouse-report-404.png)
+        - ![Lighthouse report for 404 page image](assets/readme-files/lighthouse-report-404.png)
 
 ### Tools Testing
 
