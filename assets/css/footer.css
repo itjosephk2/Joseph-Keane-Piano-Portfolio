@@ -103,7 +103,7 @@ footer .bottom-bar {
   /* shaping */
   padding: 20px 100px;
   /* background */
-  background: black;
+  background: #111;
   /* positiong child elements of this elemnt */
   display: flex;
   justify-content: space-between;
