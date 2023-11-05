@@ -379,12 +379,12 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 Page | Desktop version | Mobile version
 --- | --- | ---
-Header | ![Desktop index page image](assets/readme-files/desktop-header.png) | ![Mobile index page image](assets/readme-files/mobile-header.png)
-Discography | ![Desktop treatments page image](assets/readme-files/desktop-discographys.png) | ![Mobile treatments page image](assets/readme-files/mobile-discography.png)
-Teaching | ![Desktop book now page image](assets/readme-files/desktop-teaching.png) | ![Mobile book now page image](assets/readme-files/mobile-teaching.png)
-Lounge Piano | ![Desktop Contact Form](assets/readme-files/desktop-lounge-piano.png) | ![Mobile contact image](assets/readme-files/mobile-lounge-piano.png)
+Header | ![Desktop header section image](assets/readme-files/desktop-header.png) | ![Mobile header section image](assets/readme-files/mobile-header.png)
+Discography | ![Desktop discography section image](assets/readme-files/desktop-discography.png) | ![Mobile discography section image](assets/readme-files/mobile-discography.png)
+Teaching | ![Desktop teaching section image](assets/readme-files/desktop-teaching.png) | ![Mobile teaching section image](assets/readme-files/mobile-teaching.png)
+Lounge Piano | ![Desktop lounge piano Form](assets/readme-files/desktop-lounge-piano.png) | ![Mobile lounge piano image](assets/readme-files/mobile-lounge-piano.png)
 Contact | ![Desktop Contact Form](assets/readme-files/desktop-contact.png) | ![Mobile contact image](assets/readme-files/mobile-contact.png)
-Footer | ![Desktop Contact Form](assets/readme-files/desktop-footer.png) | ![Mobile contact image](assets/readme-files/mobile-footer.png)
+Footer | ![Desktop footer Form](assets/readme-files/desktop-footer.png) | ![Mobile footer image](assets/readme-files/mobile-footer.png)
 404 Error | ![Desktop 404 error page image](assets/readme-files/desktop-404.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
 
 [Back to top ⇧](#pianist-portfolio)
