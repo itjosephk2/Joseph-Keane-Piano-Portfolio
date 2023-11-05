@@ -306,7 +306,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 * Microsoft Edge
 
-    - Footer titles were white on a white background and thus invisible.
+    - Footer titles were white on a white background and thus invisible. Not a microsoft edge issue due to a general h2 test I did else where.
 
 ### Device compatibility
 
