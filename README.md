@@ -429,7 +429,7 @@ Footer | ![Desktop Contact Form](assets/readme-files/desktop-footer.png) | ![Mob
     - The button no. 48 was utilised to help create the button effect for the form.
  
 * [Color Pallet ](https://coolors.co/)
-    - Utilised to generate the color pallet picture for this REAME file.
+    - Utilised to generate the color pallet picture for this README file.
 
 
 ### Code
