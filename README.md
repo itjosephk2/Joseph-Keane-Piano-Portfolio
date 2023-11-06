@@ -322,7 +322,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
  
     - There was an error where an a tag was closed before its content of an i tag which was easily resolved.
 
-    -  W3C CSS Validator found no errors or warnings on my CSS.
+    -  W3C CSS Validator ffound an error of a curly bracket found at the end of the file missing for the final media query.
 
 ### Accessibility
 
