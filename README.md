@@ -446,6 +446,14 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
         - content changes from vertical to horiontal on larger screens.
      
         - Call to action works and animations work
+     
+    * Contact
+    
+        - Contact form appears fully vertcal on smaller devices and groups on larger devices.
+        
+        - Hover effect works on button.
+        
+        - labels move out of the way when clicked and active and also stay out of the way if input is valid.
 
     * Footer
 
