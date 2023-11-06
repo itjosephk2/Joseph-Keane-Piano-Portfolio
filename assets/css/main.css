@@ -386,6 +386,11 @@ header .to-top a {
   margin-bottom: 25px;
   background-image: url("../images/teaching-profile-small.webp");
 }
+#teaching .teaching-wrapper .teaching-profile-image img{
+  border-radius: 100%;
+  height: 150px;
+  width: 150px;
+}
 #teaching .teaching-bio-box {
   display: flex;
   flex-direction: column;
