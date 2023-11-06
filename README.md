@@ -391,7 +391,6 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
     Audio element is too small. Will create my own with javascript in the future.
 
-
 * Samsung A3
 
     Audio element is too small. Will create my own with javascript in the future.
@@ -399,6 +398,10 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 * Samsung A54
 
     Audio element is too small. Will create my own with javascript in the future.
+
+* Steam Deck
+
+    No appearance, responsiveness nor functionality issues.
 
 
 ### Common Elements Testing
