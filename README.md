@@ -84,6 +84,26 @@ The main font used in the site is Roboto, with Arial then Sans Serif as the fall
 
 Wire frames were drawn by hand to form a rough structural shape of the site and then each section was designed with pen and paper and mocked up with html and css befor implementation.
 
+![Wirefram image 1](assets/readmefiles/wireframe-2.jpeg)
+
+![Wirefram image 2](assets/readmefiles/wireframe-3.jpeg)
+
+![Wirefram image 3](assets/readmefiles/wireframe-4.jpeg)
+
+![Wirefram image 4](assets/readmefiles/wireframe-5.jpeg)
+
+![Wirefram image 5](assets/readmefiles/wireframe-6.jpeg)
+
+![Wirefram image 6](assets/readmefiles/wireframe-7.jpeg)
+
+![Wirefram image 7](assets/readmefiles/wireframe-8.jpeg)
+
+![Wirefram image 8](assets/readmefiles/wireframe-10.jpeg)
+
+![Wirefram image 9](assets/readmefiles/wireframe-12.jpeg)
+
+![Wirefram image 10](assets/readmefiles/wireframe-13.jpeg)
+
 [Back to top ⇧](#pianist-portfolio)
 
 
