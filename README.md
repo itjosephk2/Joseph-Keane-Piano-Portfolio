@@ -403,6 +403,10 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
     No appearance, responsiveness nor functionality issues.
 
+* Imac
+
+    No appearance, responsiveness nor functionality issues.
+
 
 ### Common Elements Testing
 
