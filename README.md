@@ -338,11 +338,11 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
     
     * 404 Error Page Desktop
 
-        - ![Lighthouse report for 404 page desktop PDF](assets/readme-files/desktop-lighthouse-report-404.pdf)
+        - ![Lighthouse report for 404 page desktop image](assets/readme-files/desktop-lighthouse-report-404.png)
     
     * 404 Error Page mobile
 
-        - ![Lighthouse report for 404 page mobile PDF](assets/readme-files/mobile-lighthouse-report-404.pdf)
+        - ![Lighthouse report for 404 page mobile image](assets/readme-files/mobile-lighthouse-report-404.png)
 
 ### Tools Testing
 
