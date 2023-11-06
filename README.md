@@ -223,7 +223,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
     - It helps to end the page.
 
 ### Error Pages
-![404 error page image](assets/readme-files/404.png)
+![404 error page image](assets/readme-files/desktop-404.png)
 
 *  404 Error Page
 
