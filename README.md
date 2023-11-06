@@ -135,12 +135,71 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 ### Teaching
 ![Teaching section image](assets/readme-files/desktop-teaching.png)
 
-- Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
+* General
+
+  - Conatins a temoporary placeholder profile picture, Will get profressional photos taken soon.
+  
+  - A caption on my teaching philosophy.
+ 
+  - A breakdown of how that would manifest throughout a students journey getting lessons.
+ 
+  - A call to action for contacting me using the form
+
+* Tablet Horizontal/Desktop
+
+  - The background is a gradient.
+
+  - The content is aligned horizzontaly         
+
+* Mobile/Tablet Vertical
+  
+  - The background is a fixed color.
+ 
+  - The content is vertically aligned and has its own container with a gradient background. 
   
 ### Lounge Piano
 ![Lounge Piano section image](assets/readme-files/desktop-lounge-piano.png)
 
-- Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
+* General
+
+  - Conatins a temoporary placeholder picture, Waiting on photos back from a wedding I played at recently.
+  
+  - A brief description of what music I play.
+ 
+  - A list of the types of veues and events I play at.
+ 
+  - A call to action for contacting me using the form
+
+* Desktop
+
+  - The background is a gradient.
+
+  - There content is aligned horrizontaly on the page.         
+
+* Mobile
+  
+  - The background is a fixed color.
+ 
+  - The content is vertically aligned and has its own container with a gradient background. 
+
+### Contact From
+![Contact section image](assets/readme-files/desktop-contact.png)
+
+* General
+
+  - Conatins an image of future albums, list of pieces that will be in them and a sample of the music.
+
+* Desktop
+
+  - The background is a gradient.
+
+  - There are three albums aligned horrizontaly on the page.         
+
+* Mobile
+  
+  - The background is a fixed color.
+ 
+  - The albums are vertically aligned and each one has its own container with a gradient background. 
 
 ### Footer
 ![Footer image](assets/readme-files/desktop-footer.png)
