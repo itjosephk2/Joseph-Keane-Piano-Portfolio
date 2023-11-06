@@ -249,7 +249,7 @@ header .to-top a {
   /* Sizing and background */
   height: 250px;
   width: 250px;
-  background-size: contain;
+  background-size: cover;
   /* shaping the border */
   border-radius: 3px;
   /* positioning */
@@ -259,13 +259,13 @@ header .to-top a {
 }
 /* images for the albums - Will change to make more efficient */
 #discography .discography-wrapper .album .image-one {
-  background-image: url('../images/album_cover_1.webp');
+  background-image: url('../images/album-cover-1-small.webp');
 }
 #discography .discography-wrapper .album .image-two {
-  background-image: url('../images/album_cover_2.webp');
+  background-image: url('../images/album-cover-2-small.webp');
 }
 #discography .discography-wrapper .album .image-three {
-  background-image: url('../images/album_cover_3.webp');
+  background-image: url('../images/album-cover-3-small.webp');
 }
 
 #discography .discography-wrapper .album .title {
@@ -384,6 +384,7 @@ header .to-top a {
   width: 150px;
   background: #fff;
   margin-bottom: 25px;
+  background-image: url("../images/teaching-profile-small.webp");
 }
 #teaching .teaching-bio-box {
   display: flex;
@@ -490,13 +491,16 @@ header .to-top a {
   width: 250px;
 }
 #lounge-piano .lounge-wrapper .lounge-image {
-
   height: 300px;
   background-size: cover;
-  background-position: right;
-  background-image: url("../images/lounge-piano.webp");
+  background-position: right  ;
+  background-image: url("../images/lounge-piano-small.webp");
   margin: 0px;
   border-radius: 3px;
+}
+#lounge-piano .lounge-wrapper .lounge-image img{
+  object-fit: cover;
+  object-position: right;
 }
 #lounge-piano .lounge-wrapper .lounge-item .lounge-text-box {
   display: flex;
