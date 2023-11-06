@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+/* Stest some default styles that I like to make css easier to work with */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto, Aarial, sans-serif;
+  scroll-behavior: smooth;
+}
 #error {
   /* centering content */
   display: flex;
@@ -6,7 +15,7 @@
   flex-direction: column;
   /* baclground styles */
   background-color: black;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../images/header.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../images/header.webp");
   background-size: cover;
   /* Size */
   width: 100%;
