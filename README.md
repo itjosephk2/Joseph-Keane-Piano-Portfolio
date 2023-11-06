@@ -433,11 +433,19 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
     * Teaching
     
-        - Needs Attention.
+        - Profile image stays round and constant on all device widths.
+     
+        - content changes from vertical to horiontal on larger screens.
+     
+        - Call to action works and animations work
 
-    * Teaching
+    * Lounge Piano
     
-        - Needs attention.
+        - Image appears on right due to row reverse on desktop and aligns vertically on top properly.
+     
+        - content changes from vertical to horiontal on larger screens.
+     
+        - Call to action works and animations work
 
     * Footer
 
