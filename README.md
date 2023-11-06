@@ -98,7 +98,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 ### Landing Page
 
 ### Header
-![Header image](assets/readme-files/header.png)
+![Header image](assets/readme-files/desktop-header.png)
 
 * Hero
     
@@ -114,7 +114,7 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
 
 ### Discography
-![Discography Section Image](assets/readme-files/Discography.png)
+![Discography Section Image](assets/readme-files/desktop-discography.png)
 
 * General
 
@@ -133,17 +133,17 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
   - The albums are vertically aligned and each one has its own container with a gradient background. 
 
 ### Teaching
-![Teaching section image](assets/readme-files/teaching.png)
+![Teaching section image](assets/readme-files/desktop-teaching.png)
 
 - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
   
 ### Lounge Piano
-![Lounge Piano section image](assets/readme-files/lounge-piano.png)
+![Lounge Piano section image](assets/readme-files/desktop-lounge-piano.png)
 
 - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
 
 ### Footer
-![Footer image](assets/readme-files/footer.png)
+![Footer image](assets/readme-files/desktop-footer.png)
 
 * Footer
 
