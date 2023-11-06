@@ -290,6 +290,989 @@ header .to-top a {
   color: #CCC;
   font-weight: 300;
   line-height: 1.5em;
+  letter-spacing: .06em;
+  /* positioning */
+  margin-bottom: 20px;
+}
+#discography .discography-wrapper .album .track-list ul {
+  /* styling the list dots */
+  list-style-type: square;
+  list-style-position: inside;
+}
+#discography .discography-wrapper .album .audio-control {
+  /* Sizing and shaping the audion controller */
+  width: 250px;
+  border-radius: 5px;
+}
+/* Album Tablet */
+@media screen and (min-width: 768px) {
+  #discography .discography-wrapper .album {
+    /* sizing */
+    max-width: 700px;
+    width: 600px;
+  }
+  #discography .discography-wrapper .album .image {
+    /* sizing */
+    width: 400px;
+    height: 400px;
+  }
+  #discography .discography-wrapper .album .title,
+  #discography .discography-wrapper .album .track-list,
+  #discography .discography-wrapper .album .audio-control {
+    /* sizing */
+    width: 400px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  #discography {
+    /* sizing and background */
+    min-height: 100vh;
+    background-image: linear-gradient(#333, #000);
+  }
+  #discography .discography-wrapper {
+    /* Changing flex direction for bigger view ports so content gets alligned horrizontaly */
+    flex-direction: row;
+  }
+  #discography .discography-wrapper .album {
+    /* removing album background */
+    border-radius: 0px;
+    background-image: none;
+    padding: 0;
+    margin: 25px 0;
+  }
+  #discography .discography-wrapper .album .image {
+    /* resizing album images */
+    width: 275px;
+    height: 275px;
+  }
+  #discography .discography-wrapper .album .title,
+  #discography .discography-wrapper .album .track-list,
+  #discography .discography-wrapper .album .audio-control {
+    /* resizing album content to align with image */
+    width: 275px;
+  }
+}
+/* Teaching Section */
+#teaching {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#teaching .teaching-wrapper {
+  /* sizing, shaping and setting the background */
+  max-width: 300px;
+  padding: 25px;
+  background-image: linear-gradient(#333, #000);
+  /* border */
+  border-radius: 10px;
+  /* positioning */
+  margin: 25px 0;
+  /* positioning content within the section */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+#teaching .teaching-wrapper .teaching-item {
+  margin: 0px 40px;
+}
+#teaching .teaching-wrapper .teaching-profile-image {
+  border-radius: 100%;
+  height: 150px;
+  width: 150px;
+  background: #fff;
+  margin-bottom: 25px;
+  background-image: url("../images/teaching-profile-small.webp");
+}
+#teaching .teaching-wrapper .teaching-profile-image img{
+  border-radius: 100%;
+  height: 150px;
+  width: 150px;
+}
+#teaching .teaching-bio-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+#teaching .teaching-wrapper .teaching-bio-box .caption {
+  color: #fff;
+  width: 250px;
+  margin: 0;
+  margin-bottom: 25px;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.3em;
+  letter-spacing: .2em;
+  text-align: left;
+}
+#teaching .teaching-wrapper .teaching-bio-box .bio {
+  color: #ccc;
+  width: 250px;
+  margin: 0;
+  margin-bottom: 25px;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.3em;
+  letter-spacing: .12em;
+  text-align: left;
+}
+@media screen and (min-width: 768px) {
+  #teaching .teaching-wrapper {
+    padding-top: 70px;
+    max-width: 700px;
+    width: 600px;
+    height: 100%;
+  }
+  #teaching .teaching-wrapper .teaching-bio-box .caption,
+  #teaching .teaching-wrapper .teaching-bio-box .bio {
+    width: 400px;
+  }
+  #teaching .teaching-wrapper .teaching-profile-image {
+    width: 150px;
+  }
+}
+@media screen and (min-width: 768px) {
+  #teaching .teaching-wrapper {
+    padding-top: 70px;
+    max-width: 700px;
+    width: 600px;
+    height: 100%;
+  }
+  #teaching .teaching-wrapper .teaching-item {
+    width: 400px;
+  }
+  #teaching .teaching-wrapper .teaching-profile-image {
+    width: 150px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  #teaching {
+    background-image: linear-gradient(#000, #333);
+    height: 100vh;
+  }
+  #teaching .teaching-wrapper {
+    max-width: 100%;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+  }
+  #teaching .teaching-wrapper .teaching-item {
+    margin-left: 25px;
+  }
+}
+/* Lounge Piano Section */
+#lounge-piano {
+  width: 100%;
+  background-color: #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#lounge-piano .lounge-wrapper {
+  /* sizing, shaping and setting the background */
+  max-width: 300px;
+  padding: 25px;
+  background-image: linear-gradient(#333, #000);
+  /* border */
+  border-radius: 10px;
+  /* positioning */
+  margin: 25px 0;
+  /* positioning content within the section */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+#lounge-piano .lounge-wrapper .lounge-item {
+  margin: 50px;
+  width: 250px;
+}
+#lounge-piano .lounge-wrapper .lounge-image {
+  height: 300px;
+  background-size: cover;
+  background-position: right  ;
+  background-image: url("../images/lounge-piano-small.webp");
+  margin: 0px;
+  border-radius: 3px;
+}
+#lounge-piano .lounge-wrapper .lounge-image img{
+  object-fit: cover;
+  object-position: right;
+}
+#lounge-piano .lounge-wrapper .lounge-item .lounge-text-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+#lounge-piano .lounge-wrapper .lounge-item .lounge-text {
+  color: white;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.3em;
+  letter-spacing: .2em;
+}
+#lounge-piano .lounge-wrapper .lounge-item .service-list-heading {
+  margin-top: 15px;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: .15em;
+  margin-bottom: 7px;
+  color: #fff;
+}
+#lounge-piano .lounge-wrapper .lounge-item .service-list {
+  /* sizing element */
+  width: 250px;
+  /* font */
+  font-family: Roboto, Arial, sans-serif;
+  text-align: left;
+  color: #CCC;
+  font-weight: 300;
+  line-height: 1.4em;
+  letter-spacing: .15em;
+  /* positioning */
+  margin-bottom: 20px;
+  /* styling the list dots */
+  list-style-type: square;
+  list-style-position: inside;
+}
+
+@media screen and (min-width: 768px) {
+  #lounge-piano .lounge-wrapper {
+    padding-top: 70px;
+    max-width: 700px;
+    width: 600px;
+    height: 100%;
+  }
+  #lounge-piano .lounge-wrapper .lounge-item {
+    width: 400px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  #lounge-piano {
+    background-image: linear-gradient(#333, #000);
+    height: 100vh;
+  }
+  #lounge-piano .lounge-wrapper {
+    max-width: 100%;
+    width: 100%;
+    flex-direction: row-reverse;
+    align-items: center;
+    background: transparent;
+  }
+  #lounge-piano .lounge-wrapper .lounge-item {
+    margin: 0;
+    margin-bottom: 150px;
+    width: 430px;
+    height: 300px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  #lounge-piano {
+    background-image: linear-gradient(#333, #000);
+    height: 100vh;
+  }
+  #lounge-piano .lounge-wrapper {
+    padding-top: 0px;
+    height: 100%;
+    flex-direction: row-reverse;
+  }
+  #lounge-piano .lounge-wrapper .lounge-item {
+    margin: 0px;
+    width: 500px;
+    height: 300px;
+  }
+}
+/* Contact Section */
+#contact {
+  /* Giving the section a size and background */
+  min-height: 100vh;
+  width: 100%;
+  background-color: #222;
+  /* Positioning content inside the section */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#contact form {
+  /* sizing, shaping and backfround of the form */
+  max-width: 300px;
+  margin-bottom: 50px;
+  width: 100%;
+  padding: 25px;
+  border-radius: 10px;
+  background-image: linear-gradient(#000, #333);
+  /* positioning chiildren of the form */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+
+}
+
+#contact .form-item {
+  /* sizing the item */
+  width: 100%;
+  /* creating space between items */
+  margin-bottom: 40px;
+  /* setting position to allow the label element to be absolutely positioned relative to this */
+  position: relative;
+}
+#contact .name-group {
+  /* positioning chiildren of the form */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  /* creating space between items - fixes phone to laptop view as flex-direction changes*/
+  margin-bottom: 0px;
+}
+
+#contact .name-group .name-item {
+  /* sizing the item */
+  width: 100%;
+  /* Fixed issue of overlapping last name and First name. Not entirely sure how this works */
+  position: relative;
+  /* creating space between items - fixes phone to laptop view as flex-direction changes*/
+  margin-bottom: 40px;
+}
+
+#contact form input,
+#contact form textarea{
+  /* sizing, shaping and backgroun*/
+  width: 100%;
+  padding: 10px;
+  background: transparent;
+  /* border */
+  outline: 0;
+  border: 1px solid #fff;
+  /* font styles */
+  font-size: 14px;
+  color: #fff;
+}
+#contact form textarea {
+  /* restricts resizing to just up and down to keep it uniformed horizontally */
+  resize: vertical;
+}
+#contact form label {
+  /* sizing and shaping */
+  height: 100%;
+  padding: 10px;
+  /* font styles */
+  color: #fff;
+  /* positioning */
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* interactivity */
+  cursor: text;
+  transition: .3s;
+}
+#contact form button {
+  /* sizing shapping and backgound */
+  display: inline-block;
+  width: 100%;
+  padding: 10px 0;
+  background: transparent;
+  /* border */
+  outline: 0;
+  border: 1px solid #fff;
+  outline: 0;
+  /* font styles */
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  line-height: 1em;
+  /* makes this a relative parent to absolute before spuedo */
+  position: relative;
+
+  /* these are styles I got from a website with interactive buttons I referenced in the README */
+  /* I do not fully understand the full purpose of how these make the effect occur so have left them uncatogorised */
+  margin-top: -25px;
+  appearance: none;
+  margin: 0;
+  opacity: 1;
+  padding: 1.5em 2.2em;
+  text-rendering: geometricprecision;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  white-space: nowrap;
+
+  /* interactivity */
+  cursor: pointer;
+  transition: opacity 300ms cubic-bezier(.694, 0, 0.335, 1),background-color 100ms cubic-bezier(.694, 0, 0.335, 1),color 100ms cubic-bezier(.694, 0, 0.335, 1); /* Don't understand cubic-bezier*/
+}
+
+#contact form button:before {
+  /* Makes before exist */
+  content: "";
+  /* size and background */
+  height: 100%;
+  width: 100%;
+  background-color: #EBEBEB;
+  /* border */
+  border: none;
+  /* Positioning */
+  position: absolute;
+  left: 0;
+  top: 0;
+  /* these are styles I got from a website with interactive buttons I referenced in the README */
+  /* I do not fully understand the full purpose of how these make the effect occur so have left them uncatogorised */
+  animation: opacityFallbackOut .5s step-end forwards;
+  backface-visibility: hidden;
+  clip-path: polygon(-1% 0, 0 0, -25% 100%, -1% 100%);
+  transform: translateZ(0);
+  transition: clip-path .5s cubic-bezier(.165, 0.84, 0.44, 1), -webkit-clip-path .5s cubic-bezier(.165, 0.84, 0.44, 1);
+}
+
+/* change font color to black to adapt to background change */
+#contact form button:hover {
+  color: #000;
+}
+
+/* these are styles I got from a website with interactive buttons I referenced in the README */
+#contact form button:hover::before {
+  /* Not a deep enough understanding that I could utilise this on my own yet */
+  animation: opacityFallbackIn 0s step-start forwards;
+  /* I do understand this at all */
+  clip-path: polygon(0 0, 101% 0, 101% 101%, 0 101%);
+}
+
+#contact form button:after {
+  background-color: #FFFFFF;
+}
+
+/* these are styles I got from a website with interactive buttons I referenced in the README */
+/* Brings Text to infront of the Background during animation */
+#contact form button span {
+  z-index: 1;
+  position: relative;
+}
+
+#contact form input:focus~label,
+#contact form input:valid~label,
+#contact form textarea:focus~label,
+#contact form textarea:valid~label  {
+  /* pushes label above input/textarea box */
+  top: -30px;
+  /* Font Styles */
+  font-size: 12px;
+  color: #ccc;
+}
+@media screen and (min-width: 768px) {
+  #contact form {
+    max-width: 600px;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+  }
+  #contact form button,
+  #contact .form-item {
+    width: 400px;
+  }
+}
+/* Tablet horizontal */
+@media screen and (min-width: 1024px) {
+  /* change background to gradient */
+  #contact {
+    background-image: linear-gradient(#000, #333);
+  }
+  /* make form larger and appear on background */
+  #contact form {
+    max-width: 600px;
+    background-image: none;
+    border-radius: 0;
+  }
+
+  /* change name inputs to be beside eachother */
+  #contact .name-group {
+      flex-direction: row;
+  }
+  #contact .name-group .name-item {
+      width: 47%;
+  }
+  #contact form button,
+    #contact .form-item {
+      width: 100%;
+    }
+}
+/* footer Section */
+footer .footer-box {
+  /* positioning */
+  margin-top: 50px;
+  /* positiong child elements of this elemnt */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+footer .footer-box-item {
+  /* sizing */
+  width: 60%;
+  /* positiong child elements of this elemnt */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  /* positioning */
+  margin-bottom: 50px;
+
+}
+footer .footer-about-me {
+  /* font */
+  text-align: left;
+  font-weight: 300;
+  letter-spacing: .1em;
+  line-height: 1.4em;
+}
+footer .social-media-box {
+  /* sizing */
+  width: 100%;
+  /* positioning */
+  margin-top: 20px;
+  /* positiong child elements of this elemnt */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+footer .media-icon {
+  /* font */
+  font-size: 24px;
+  /* interactivity */
+  transition: .3s;
+}
+footer .media-icon:hover {
+  /* font */
+  color: #666;
+}
+footer .media-icon:active {
+  /* font */
+  color: #999;
+}
+footer .footer-box-item h2 {
+  /* font */
+  font-size: 24px;
+  text-align: left;
+  /* positioning */
+  margin-bottom: 1em;
+}
+footer .footer-box-item ul {
+  /* font */
+  text-align: left;
+}
+footer .footer-box-item li {
+  /* font */
+  text-align: left;
+  font-size: 18px;
+  list-style-type: none;
+  line-height: 2.5em;
+}
+footer .footer-box-item a {
+  /* font */
+  text-decoration: none;
+  color: #000;
+  /* making the elemnt relative so absolute can be applied to the before */
+  position: relative;
+}
+footer .footer-box-item ul li a::before {
+  /* makes it exist */
+  content: "";
+  /* positionig */
+  position: absolute;
+  top: 100%;
+  left: 0;
+  /* sizing */
+  width: 0;
+  height: 2px;
+  /* background */
+  background: #000;
+  /* animation */
+  transition: .3s;
+}
+
+footer .footer-box-item a:hover::before {
+  /* sizing */
+  width: 100%;
+}
+
+footer .bottom-bar {
+  /* sizing */
+  width: 100%;
+  /* shaping */
+  padding: 20px 100px;
+  /* background */
+  background: #111;
+  /* positiong child elements of this elemnt */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
+
+footer .bottom-bar .logo {
+  /* font */
+  font-size: 32px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+footer .bottom-bar .copyright{
+  /* making the elemnt relative so absolute can be applied to the before */
+  position: relative;
+  /* font */
+  font-size: 12px;
+  color: #fff;
+  font-weight: 300;
+  text-decoration: none;
+  letter-spacing: .1em;
+  /* positioning */
+  margin-left: 40px;
+}
+
+/* tablet Horizontal */
+@media screen and (min-width: 1024px) {
+  footer .footer-box {
+    /* positioning */
+    margin-top: 75px;
+    /* changing to horrizontal for larger screen sizes*/
+    flex-direction: row;
+    /* sizing */
+    height: 300px;
+  }
+  footer .footer-about-me {
+    /* font */
+    line-height: 1.2em;
+  }
+  footer .footer-box-item {
+    /* sizing */
+    width: 20%;
+    height: 300px;
+    /* font */
+    align-items: flex-start;
+    /* shifting content to the left */
+    justify-content: flex-start;
+  }
+}
+/* Desktop Horizontal */
+@media screen and (min-width: 1200px) {
+  footer .footer-about-me {
+    /* font */
+    line-height: 1.4em;
+  }
+}
+/* Importing roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+/* Stest some default styles that I like to make css easier to work with */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, Aarial, sans-serif;
+    scroll-behavior: smooth;
+  }
+/* Setting deafult styles to general classes */
+section {
+  width: 100%;
+  background-color: #222;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+.section-heading {
+  color: #fff;
+  text-align: center;
+  font-size: 38px;
+  padding: 40px;
+  padding-top: 70px;
+  text-transform: uppercase;
+}
+.contact-link{
+  text-transform: uppercase;
+  display: inline-block;
+  /* makes it an anchor for the before */
+  position: relative;
+  /* font */
+  font-size: 18px;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+  margin-top: 25px;
+}
+.contact-link::before {
+  /* makes it a thing */
+  content: "";
+  /* positioning */
+  position: absolute;
+  top: 100%;
+  left: 0;
+  /* sizing */
+  width: 0;
+  height: 2px;
+  /* background */
+  background: #fff;
+  /* animation */
+  transition: .2s;
+}
+.contact-link:hover::before {
+  /* sizing */
+  width: 100%;
+}
+
+.icon {
+  display: inline-block;
+  color: white;
+  margin-right: 10px;
+  transition: .5s;
+}
+.icon:hover {
+  font-size: 1.1em;
+  transform: rotate(90deg);
+}
+/* Header styles */
+header .logo,
+header .legacy {
+  /* non existent at current viewport */
+  display: none;
+}
+
+header .to-top {
+  /* positioning */
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  /* font */
+  background-color: black;
+  /* shaping */
+  padding: 5px 10px;
+  border-radius: 100%;
+}
+header .to-top a {
+  /* font */
+  color: #FFF;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+@media screen and (min-width: 768px) {
+  header .legacy,
+  header .logo {
+    /* Makes appear on larger devicess */
+    display: block;
+  }
+  header .to-top {
+    /* gets rid of on larger view ports */
+    display: none;
+  }
+  header {
+    /* positionig */
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* sizing */
+    width: 100%;
+    /* shaoing */
+    padding: 20px 100px;
+    /* background */
+    background: #111;
+    /* positioing child elements */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* fixes error of audio elements being infront of legacy navigation */
+    z-index: 100;
+  }
+
+  header .logo {
+    /* font */
+    font-size: 32px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+  }
+  header .legacy a{
+    /* makes it an anchor for the before */
+    position: relative;
+    /* font */
+    font-size: 18px;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: .12em;
+    /* positioing */
+    margin-left: 40px;
+  }
+
+  header .legacy a::before {
+    /* makes it a thing */
+    content: "";
+    /* positioning */
+    position: absolute;
+    top: 100%;
+    left: 0;
+    /* sizing */
+    width: 0;
+    height: 2px;
+    /* background */
+    background: #fff;
+    /* animation */
+    transition: .3s;
+  }
+
+
+  header .legacy a:hover::before {
+    /* sizing */
+    width: 100%;
+  }
+
+}
+@media screen and (min-width: 1024px) {
+  header {
+    /* makes background transparent on devices large enoughh so nav doesnt overlap with white footer and also doesnt overlap with headings of sections */
+    background: transparent;
+  }
+}
+/* hero Styles */
+#hero {
+  /* Size */
+  width: 100%;
+  height: 100vh;
+  /* baclground styles */
+  background-color: black;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../images/header.webp");
+  background-size: cover;
+  /* centering content */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#hero h1 {
+  /* Sizing and shaping */
+  border: 10px solid #fff;
+  padding: 10px 16px;
+  /* Font styles */
+  font-family: arial, sans-serif;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  text-align: center;
+}
+#hero .kicker {
+  /* Positioning */
+  margin-top: 10px;
+  /* Font */
+  font-family: arial, sans-serif;
+  font-size: 18px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: .05em;
+}
+
+/* Tablets */
+@media screen and (min-width: 768px) {
+  #hero h1 {
+    /* Font */
+    font-size: 72px;
+  }
+}
+
+/* Dsicography Section */
+#discography {
+  /* Sizing and setting te background */
+  width: 100%;
+  background-color: #222;
+}
+#discography .discography-wrapper {
+  /* positioning content within the section */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+#discography .discography-wrapper  .album {
+  /* sizing, shaping and setting the background */
+  max-width: 300px;
+  padding: 25px;
+  background-image: linear-gradient(#333, #000);
+  /* border */
+  border-radius: 10px;
+  /* positioning */
+  margin: 25px 0;
+  /* positioning content within the section */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+#discography .discography-wrapper  .album .image {
+  /* Sizing and background */
+  height: 250px;
+  width: 250px;
+  background-size: cover;
+  /* shaping the border */
+  border-radius: 3px;
+  /* positioning */
+  margin-top: 20px;
+  margin-bottom: 5px;
+
+}
+/* images for the albums - Will change to make more efficient */
+#discography .discography-wrapper .album .image-one {
+  background-image: url('../images/album-cover-1-small.webp');
+}
+#discography .discography-wrapper .album .image-two {
+  background-image: url('../images/album-cover-2-small.webp');
+}
+#discography .discography-wrapper .album .image-three {
+  background-image: url('../images/album-cover-3-small.webp');
+}
+
+#discography .discography-wrapper .album .title {
+  /* sizing element */
+  width: 250px;
+  /* font */
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 24px;
+  letter-spacing: .1em;
+  color: white;
+  text-align: left;
+  /* spacing */
+  margin-bottom: 5px;
+}
+
+#discography .discography-wrapper .album .track-list {
+  /* sizing element */
+  width: 250px;
+  /* font */
+  font-family: Roboto, Arial, sans-serif;
+  text-align: left;
+  color: #CCC;
+  font-weight: 300;
+  line-height: 1.5em;
   letter-spacing: .07em;
   /* positioning */
   margin-bottom: 20px;
