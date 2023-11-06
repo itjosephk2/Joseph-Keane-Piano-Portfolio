@@ -9,7 +9,10 @@
     scroll-behavior: smooth;
   }
 /* Setting deafult styles to general classes */
-/* Section heading Styling */
+section {
+  width: 100%;
+  background-color: #222;
+}
 .section-heading {
   color: #fff;
   text-align: center;
@@ -17,6 +20,48 @@
   padding: 40px;
   padding-top: 70px;
   text-transform: uppercase;
+}
+.contact-link{
+  text-transform: uppercase;
+  display: inline-block;
+  /* makes it an anchor for the before */
+  position: relative;
+  /* font */
+  font-size: 18px;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+  margin-top: 25px;
+}
+.contact-link::before {
+  /* makes it a thing */
+  content: "";
+  /* positioning */
+  position: absolute;
+  top: 100%;
+  left: 0;
+  /* sizing */
+  width: 0;
+  height: 2px;
+  /* background */
+  background: #fff;
+  /* animation */
+  transition: .2s;
+}
+.contact-link:hover::before {
+  /* sizing */
+  width: 100%;
+}
+
+.icon {
+  display: inline-block;
+  color: white;
+  margin-right: 10px;
+  transition: .5s;
+}
+.icon:hover {
+  font-size: 1.1em;
+  transform: rotate(90deg);
 }
 /* Header styles */
 header .logo,
@@ -305,7 +350,7 @@ header .to-top a {
 }
 /* Teaching Section */
 #teaching {
-  background-image: linear-gradient(#000, #333);
+
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -326,18 +371,60 @@ header .to-top a {
   align-items: center;
   justify-content: space-around;
 }
-#teaching .teaching-wrapper .circle {
+#teaching .teaching-wrapper .teaching-item {
+  margin: 0px 40px;
+}
+#teaching .teaching-wrapper .teaching-profile-image {
   border-radius: 100%;
   height: 150px;
   width: 150px;
   background: #fff;
   margin-bottom: 25px;
 }
-
-#teaching .teaching-wrapper p {
+#teaching .teaching-bio-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+#teaching .teaching-wrapper .teaching-bio-box .caption {
   color: #fff;
   width: 250px;
+  margin: 0;
   margin-bottom: 25px;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.3em;
+  letter-spacing: .2em;
+  text-align: left;
+}
+#teaching .teaching-wrapper .teaching-bio-box .bio {
+  color: #ccc;
+  width: 250px;
+  margin: 0;
+  margin-bottom: 25px;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.3em;
+  letter-spacing: .12em;
+  text-align: left;
+}
+@media screen and (min-width: 768px) {
+  #teaching .teaching-wrapper {
+    padding-top: 70px;
+    max-width: 700px;
+    width: 600px;
+    height: 100%;
+  }
+  #teaching .teaching-wrapper .teaching-bio-box .caption,
+  #teaching .teaching-wrapper .teaching-bio-box .bio {
+    width: 400px;
+  }
+  #teaching .teaching-wrapper .teaching-profile-image {
+    width: 150px;
+  }
 }
 @media screen and (min-width: 768px) {
   #teaching .teaching-wrapper {
@@ -349,13 +436,13 @@ header .to-top a {
   #teaching .teaching-wrapper .teaching-item {
     width: 400px;
   }
-  #teaching .teaching-wrapper .circle {
+  #teaching .teaching-wrapper .teaching-profile-image {
     width: 150px;
   }
 }
 @media screen and (min-width: 1024px) {
   #teaching {
-    background-image: linear-gradient(#333, #000);
+    background-image: linear-gradient(#000, #333);
     height: 100vh;
   }
   #teaching .teaching-wrapper {
@@ -447,52 +534,6 @@ header .to-top a {
   list-style-position: inside;
 }
 
-#lounge-piano .lounge-wrapper .lounge-item .icon {
-  display: inline-block;
-  color: white;
-  margin-right: 10px;
-  transition: .5s;
-}
-#lounge-piano .lounge-wrapper .lounge-item .icon:hover {
-  font-size: 1.1em;
-  transform: rotate(90deg);
-}
-#lounge-piano .lounge-wrapper .lounge-item .lounge-link{
-  text-transform: uppercase;
-  display: inline-block;
-  /* makes it an anchor for the before */
-  position: relative;
-  /* font */
-  font-size: 18px;
-  color: #fff;
-  font-weight: 500;
-  text-decoration: none;
-  margin-top: 25px;
-}
-
-#lounge-piano .lounge-wrapper .lounge-item .lounge-link::before {
-  /* makes it a thing */
-  content: "";
-  /* positioning */
-  position: absolute;
-  top: 100%;
-  left: 0;
-  /* sizing */
-  width: 0;
-  height: 2px;
-  /* background */
-  background: #fff;
-  /* animation */
-  transition: .2s;
-}
-
-
-#lounge-piano .lounge-wrapper .lounge-item .lounge-link:hover::before {
-  /* sizing */
-  width: 100%;
-}
-
-
 @media screen and (min-width: 768px) {
   #lounge-piano .lounge-wrapper {
     padding-top: 70px;
@@ -559,7 +600,7 @@ header .to-top a {
   margin-bottom: 50px;
   width: 100%;
   padding: 25px;
-  border-radius: 5px;
+  border-radius: 10px;
   background-image: linear-gradient(#000, #333);
   /* positioning chiildren of the form */
   display: flex;
@@ -724,8 +765,20 @@ header .to-top a {
   font-size: 12px;
   color: #ccc;
 }
-/* Tablet horizontal */
 @media screen and (min-width: 768px) {
+  #contact form {
+    max-width: 600px;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+  }
+  #contact form button,
+  #contact .form-item {
+    width: 400px;
+  }
+}
+/* Tablet horizontal */
+@media screen and (min-width: 1024px) {
   /* change background to gradient */
   #contact {
     background-image: linear-gradient(#000, #333);
@@ -736,6 +789,7 @@ header .to-top a {
     background-image: none;
     border-radius: 0;
   }
+
   /* change name inputs to be beside eachother */
   #contact .name-group {
       flex-direction: row;
@@ -743,6 +797,10 @@ header .to-top a {
   #contact .name-group .name-item {
       width: 47%;
   }
+  #contact form button,
+    #contact .form-item {
+      width: 100%;
+    }
 }
 /* footer Section */
 footer .footer-box {
