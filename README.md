@@ -319,6 +319,8 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
     - W3C Markup Validator found an error concerning the misspelling of target for one of the attributes of a link in the footer.
 
     - Another error found by W3C was a comment that wasnt correctly removed. This caused an error between The parent audio and child source not being compatible as the trailing end of what was once a comment was treated as the backup text for when audio did not work on the browser.
+ 
+    - There was an error where an a tag was closed before its content of an i tag which was easily resolved.
 
     -  W3C CSS Validator found no errors or warnings on my CSS.
 
