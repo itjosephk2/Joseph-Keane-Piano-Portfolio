@@ -391,6 +391,9 @@ Wire frames were drawn by hand to form a rough structural shape of the site and 
 
     No appearance, responsiveness nor functionality issues.
 
+* Samsung A3
+
+    Audio element is too small. Will create my own with javascript in the future.
 
 
 ### Common Elements Testing
